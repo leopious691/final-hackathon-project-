@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Campus Blood Connect",
+  "description": "A React web application connecting student blood donors with patients in need. Features donor matching, emergency request generation via Gemini AI, and a donation management dashboard.",
+  "requestFramePermissions": []
+}
